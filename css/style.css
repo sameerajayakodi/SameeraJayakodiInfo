@@ -1,0 +1,15 @@
+/* CSS Document */
+
+.about-me .p{
+	font-family: 'Roboto', sans-serif;
+	color: aliceblue;
+}
+
+.card {
+	background-color: gray;
+}
+
+.card-body{
+	background-color: gray;
+}
+
